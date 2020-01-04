@@ -1,7 +1,7 @@
 // @flow
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import hello from '@msansoni/f1-udp-client';
+import hello from '@msansoni/neon-hello';
 import routes from '../constants/routes.json';
 import styles from './Home.css';
 

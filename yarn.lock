@@ -1248,10 +1248,10 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@msansoni/f1-udp-client@^0.1.6":
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/@msansoni/f1-udp-client/-/f1-udp-client-0.1.6.tgz#e8b0e9d6a0e117f8efdfbeed5ada8d2165884417"
-  integrity sha512-dnLp09JY+LTp8+34/flZCqTTkkXNFLjWXYZAB+fsMPxGgNDYCslXSoaobnWlR5B1tq9VfAn2X1T0NGaAFOUhxQ==
+"@msansoni/neon-hello@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@msansoni/neon-hello/-/neon-hello-0.1.1.tgz#d49b2c35bac5701ae51f27d678788d0af40bd8ee"
+  integrity sha512-xIq2KuY4RXmuCicg2oOrkq2owfzBqtCzS9CCJwrMx/SeYu29V072M8iD3CMvQfkod4a9C4lnzuOXv8GaIrBZRg==
   dependencies:
     neon-cli "^0.3.3"
 
